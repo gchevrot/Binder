@@ -1,8 +1,9 @@
 name: py36
 channels:
-- conda-forge
+  - conda-forge
+  - anaconda
 dependencies:
-- python=3.6 
-- ipywidgets=7.0.0
-- matplotlib=2.0.2
-- numpy=1.13.1
+  - python=3.6
+  - ipywidgets=7.0.0
+  - matplotlib=2.0.2
+  - numpy=1.13.1
